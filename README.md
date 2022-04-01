@@ -16,6 +16,8 @@ Christensen, G., Freese, J. and Miguel, E., 2019. Transparent and reproducible s
 
 Kitzes, Justin, Daniel Turek, and Fatma Deniz. 2018. The practice of reproducible research: case studies and lessons from the data-intensive sciences. University of California Press. 
 
+Lipton, Z.C., 2018. The Mythos of Model Interpretability. ACM Queue, 16(3), pp.31–57.
+
 Ostblom, Joel. 2021. Data Science Ethics. BAIT 509 Business Applications of Machine Learning. https://bait509-ubc.github.io/BAIT509/lectures/lecture10a.html
 
 Stoudt S, Vásquez VN, Martinez CC (2021) Principles for data analysis workflows. PLOS Computational Biology 17(3): e1008770. https://doi.org/10.1371/journal.pcbi.1008770
