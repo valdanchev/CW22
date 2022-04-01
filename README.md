@@ -18,6 +18,8 @@ Kitzes, Justin, Daniel Turek, and Fatma Deniz. 2018. The practice of reproducibl
 
 Lipton, Z.C., 2018. The Mythos of Model Interpretability. ACM Queue, 16(3), pp.31–57.
 
+Narayanan, A., 2018, February. Translation tutorial: 21 fairness definitions and their politics. In Proc. Conf. Fairness Accountability Transp., New York, USA (Vol. 1170, p. 3). https://www.youtube.com/watch?v=jIXIuYdnyyk
+
 Ostblom, Joel. 2021. Data Science Ethics. BAIT 509 Business Applications of Machine Learning. https://bait509-ubc.github.io/BAIT509/lectures/lecture10a.html
 
 Stoudt S, Vásquez VN, Martinez CC (2021) Principles for data analysis workflows. PLOS Computational Biology 17(3): e1008770. https://doi.org/10.1371/journal.pcbi.1008770
