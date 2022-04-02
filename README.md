@@ -20,6 +20,8 @@ Lipton, Z.C., 2018. The Mythos of Model Interpretability. ACM Queue, 16(3), pp.3
 
 Narayanan, A., 2018, February. Tutorial: 21 fairness definitions and their politics. In Proc. Conf. Fairness Accountability Transp., New York, USA (Vol. 1170, p. 3). https://www.youtube.com/watch?v=jIXIuYdnyyk
 
+Obermeyer Z, Powers B, Vogeli C, Mullainathan S. Dissecting racial bias in an algorithm used to manage the health of populations. Science. 2019 Oct 25;366(6464):447-453. doi: 10.1126/science.aax2342.
+
 Ostblom, Joel. 2021. Data Science Ethics. BAIT 509 Business Applications of Machine Learning. https://bait509-ubc.github.io/BAIT509/lectures/lecture10a.html
 
 Stoudt S, Vásquez VN, Martinez CC (2021) Principles for data analysis workflows. PLOS Computational Biology 17(3): e1008770. https://doi.org/10.1371/journal.pcbi.1008770
