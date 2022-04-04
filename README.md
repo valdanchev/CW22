@@ -4,7 +4,7 @@ A lightning talk presentation for Collaborations Workshop 2022 (CW22) https://ww
 
 # Acknowledgements
 
-I would like to thank fellow participants in the workshop 'Building Responsible Data Science Workflows: Transparency, Reproducibility, and Ethics by Design' (PyData Global 2021 conference, 28–30 October 2021), Ben Marwick, Brandeis Marshall, Kirstie Whitaker, Sara Stoudt, Thibault Lestang, and Yacine Jernite, for helpful discussions. I would also like to thank Tiffany Timbers, Emma Rand, Ben Marwick, Luc Rocher, the Turing Way Project, and Greg Wilson for helpful Twitter discussions and pointers to resources.     
+This is a collaborative project that has been initiated at the workshop 'Building Responsible Data Science Workflows: Transparency, Reproducibility, and Ethics by Design' (PyData Global 2021 conference, 28–30 October 2021) with fellow participants: Ben Marwick, Brandeis Marshall, Kirstie Whitaker, Sara Stoudt, Thibault Lestang, and Yacine Jernite. I would also like to thank Tiffany Timbers, Emma Rand, Ben Marwick, Luc Rocher, the Turing Way Project, and Greg Wilson for helpful Twitter discussions and pointers to resources.     
 
 # References
 
